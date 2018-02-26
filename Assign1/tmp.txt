@@ -1,5 +1,0 @@
-lineb
-linea
-line3
-line4
-`
