@@ -10,7 +10,7 @@ This Project is protected under the MIT license. For more information, please se
 
 ----------------------
       Citations
----------------------
+----------------------
 
 referenced github.com/aksamitn's work for parsing
 referenced  github.com/barskyn's work for testing
