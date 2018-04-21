@@ -1,4 +1,4 @@
-----------------------
+-----------------------
      Assignment 3 
 -----------------------
 
@@ -13,4 +13,4 @@ This Project is protected under the MIT license. For more information, please se
 ----------------------
 
 referenced github.com/aksamitn's work for parsing
-referenced  github.com/barskyn's work for testing
+referenced github.com/barskyn's work for testing
